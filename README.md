@@ -1,0 +1,2 @@
+# viewerimageapp
+A very basic image app, where you can scroll through your own images. In my file i put 3 images but you can put as many as you want. I made this to just understand python with using tkinter. In line 6 of the code with the rooticonbitmap, that is used to change the icon thats seen on the top left of the window. You can have to whatever icon you want. Just make sure its called with the correct cmd and directory.
